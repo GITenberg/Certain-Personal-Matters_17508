@@ -1,0 +1,54 @@
+_repo: Certain-Personal-Matters_17508
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 17508-h/images/backcover.png
+creator:
+  author:
+    agent_name: Wells, H. G. (Herbert George)
+    alias: Wells, Herbert George
+    birthdate: 1866
+    deathdate: 1946
+    gutenberg_agent_id: '30'
+    url: http://www.gutenberg.org/2009/agents/30
+    wikipedia: http://en.wikipedia.org/wiki/H._G._Wells
+description: "Certain Personal Matters is an 1897 collection of essays selected by\
+  \ H. G. Wells from among the many short essays and ephemeral pieces he had written\
+  \ since 1893. The book consists of thirty-nine pieces ranging from about eight hundred\
+  \ to two thousand words in length. A one-shilling reprint (two shillings in cloth)\
+  \ was issued in 1901 by T. Fisher Unwin.\nThe essays in Certain Personal Matters\
+  \ are written from a consistent first-person perspective, but only one (ironically,\
+  \ given the title) describes an identifiable event in Wells's life—how he responded\
+  \ to being diagnosed with tuberculosis in the fall of 1887.\nThe other essays adopt\
+  \ the playful persona of an aspiring young writer living in modest circumstances\
+  \ with a wife, Euphemia, who is only sketchily and obliquely described. Their tone\
+  \ reflects the demands of the market in London magazines for \"short essays, or\
+  \ short stories, often with a twist, which can be read in half a dozen minutes,\
+  \ but which will pique a reader's attention and ultimately allow him to think, 'How\
+  \ true. I have done that myself', or to make some similar remark.\"\nMore than half\
+  \ of the essays are humorous social satire; serious subjects are addressed only\
+  \ ironically. Politics, historical and economic topics, and identifiable portraiture\
+  \ are eschewed. Ten essays have literary themes, and in these, too, the point of\
+  \ view is humorous. One (\"On Schooling and the Phases of Mr. Sandsome\") gently\
+  \ critiques the choice of subjects studied in the course of primary and secondary\
+  \ education. Half a dozen essays engage scientific themes, especially natural selection\
+  \ and evolution, and in \"The Extinction of Man\" Wells shows he is contemplating\
+  \ themes that would be expressed in his next novel, The War of the Worlds: \"Even\
+  \ now, for all we can tell, the coming terror may be crouching for its spring and\
+  \ the fall of humanity may be at hand.\"\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2006-01-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17508'
+  wikidata: Q16385254
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wells, H. G. (Herbert George), 1866-1946'
+- !lcc 'PR'
+title: Certain Personal Matters
+url: http://www.gutenberg.org/ebooks/17508
+wikipedia:
+- https://en.wikipedia.org/wiki/Certain_Personal_Matters
