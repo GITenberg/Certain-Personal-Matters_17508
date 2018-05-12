@@ -36,6 +36,8 @@ description: "Certain Personal Matters is an 1897 collection of essays selected 
   \ themes that would be expressed in his next novel, The War of the Worlds: \"Even\
   \ now, for all we can tell, the coming terror may be crouching for its spring and\
   \ the fall of humanity may be at hand.\"\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17508#Certain-Personal-Matters
 gutenberg_issued: '2006-01-12'
 gutenberg_type: Text
 identifiers:
